@@ -1,0 +1,56 @@
+.dark-bg{
+    background-color: black;
+    width: 248px;
+}
+
+h1{
+    color: brown;
+}
+
+p{
+    color: blue;
+    font-size: 30px;
+    text-align: end;
+    padding: 12px;
+}
+
+.calculator-background{
+    background-color: rgba(128, 128, 128, 0.707);
+    width: 248px;
+}
+
+.green-button{
+    color: rgb(34, 241, 34);
+}
+
+.white-button{
+    color: white;
+}
+
+button{
+    width: 62px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button:active{
+    outline: red solid;
+}
+
+
+.equals-button{
+    background-color:rgb(34, 241, 34);
+    color: white;
+    border-radius: 12px;
+    text-align:center;
+    height: auto;
+    margin-right: 8px;
+}
+
+.row{
+    display: flex;
+    padding-bottom: 12px;
+}

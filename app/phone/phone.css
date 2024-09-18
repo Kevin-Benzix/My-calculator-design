@@ -1,0 +1,34 @@
+.dark-bg{
+    background-color: black;
+    width: 250px;
+}
+
+h1{
+    color: blue;
+}
+
+p {
+    color: pink;
+}
+
+.phone-bg{
+    background-color: rgba(10, 9, 9, 0.474);
+    width: 100px;
+    height: 30px;
+}
+
+button{
+    border: none;
+    size: 3000px;
+    width: 30px;
+    height: 100px;
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.white-button{
+    color: white;
+    background-color: grey;
+    size: 300px;
+}
+
